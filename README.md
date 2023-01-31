@@ -46,6 +46,8 @@ Download the image named yellow_detect.jpeg. You will see a yellow block kept on
 I used image processing technique to detect the yellow colored block kept on the arena.
 I found the pixel co-ordinate of the center of the detected block.
 
+![image](https://user-images.githubusercontent.com/75070782/215650187-7c5d265c-5d83-4ccb-8bd0-9428172f883d.png)
+
 code is present in block_detection.py
 
 ## Task 4
